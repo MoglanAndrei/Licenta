@@ -59,8 +59,8 @@ const long interval = 16000;           // interval at which to blink (millisecon
 
 //Connect to DB
 
-const String node_name = "audio.memorandului";
-char url[31] = "/audio.memorandului/_doc";
+const String node_name = "audio.racadau";
+char url[31] = "/audio.racadau/_doc";
 const char host[] = "8f9677360fc34e2eb943d737b2597c7b.us-east-1.aws.found.io";
 const uint16_t httpsPort = 9243;
 const String userpass = "";
